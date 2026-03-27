@@ -7,7 +7,20 @@
 
 ---
 
-## 🚀 What is FlowMind AI?
+## � Screenshots
+
+### 🏠 Landing Page
+![Landing Page](assets/landing_page.png)
+
+### 🧭 Dashboard — Idea Capture (Step 1)
+![Dashboard](assets/dashboard.png)
+
+### 💡 AI-Generated Idea Refinements
+![Step 1 Idea Generation](assets/step1_ideas.png)
+
+---
+
+## �🚀 What is FlowMind AI?
 
 FlowMind AI is a full-stack SaaS prototype that guides you through a **6-step AI pipeline** — from a raw idea all the way to a fully fleshed-out execution strategy, marketing content, and learning roadmap.
 
